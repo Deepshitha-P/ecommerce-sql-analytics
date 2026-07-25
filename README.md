@@ -2,6 +2,7 @@
 
 A relational database project simulating an e-commerce platform, built to demonstrate
 schema design, query optimization, and analytical SQL.
+✅ Schema and all queries tested and verified on [DB Fiddle](https://www.db-fiddle.com/) (MySQL 8.0).
 
 ## Files
 - `01_schema_and_data.sql` — Database schema (5 normalized tables, PK/FK constraints, indexes) + realistic sample data.
